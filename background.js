@@ -1,0 +1,1 @@
+// Required by Manifest V3, but not used for logic in this extension.

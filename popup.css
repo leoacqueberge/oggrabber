@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 600px;
+  height: auto;
+  min-height: 200px;
+  max-height: 900px;
+  background: #fff;
+  font-family: system-ui, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+#container {
+  width: 100%;
+  text-align: center;
+}
+#og-image {
+  width: 100%;
+  height: auto;
+  max-height: 630px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+#not-found {
+  color: #888;
+  font-size: 1rem;
+  margin-top: 30px;
+}
